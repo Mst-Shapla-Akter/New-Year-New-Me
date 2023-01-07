@@ -91,7 +91,7 @@ width:416 ;
     line-height: 30px;
     font-style: normal;
 }
-/* at aktu pblm my plans */
+/* ata aktu pblm- my plans */
 .plans-title{
     font-size: 50px;
     text-align: center;
@@ -132,7 +132,91 @@ top: 1792.3px;
     font-weight: 400;
     line-height: 40px;
 }
+/* ata imn diche */
 
+.main-footer input{
+    display: block;
+    margin-right: 30px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+}
+/* next project */
+.call-now{
+position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2222.26px;
+background:linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%),url('images/watch.png');
+border-radius: 8px;
+border-radius: 8px;
+}
+.title{
+position: absolute;
+width: 459px;
+height: 182px;
+left: 80px;
+top:40px;
+font-size: 30px;
+color: #FFFFFF;
+
+}
+.btn{
+position: absolute;
+width: 120px;
+height: 50px;
+left: 80px;
+top: 200px;
+border: 0;
+border-radius: 5px;
+color: #F15B22;
+}
+.footer-content{
+position: absolute;
+width: 1600px;
+height: 577px;
+/* top: 2600px; */
+left: 0px;
+top: 2652px;
+background: #151414;
+
+}
+.container-main-footer{
+position: absolute;
+width: 485px;
+height: 317px;
+left: 230px;
+top: 120px;
+color: #f2ebeb;
+line-height: 30px;
+}
+.main-footer{
+position: absolute;
+width: 325px;
+height: 204px;
+left: 1046px;
+top: 150px;
+color: #FFFFFF;
+}
+.subscribe{
+    position: absolute;
+    width: 325px;
+    height: 204px;
+    left: 1046px;
+    top: 150px;
+}
+button{
+    position: absolute;
+    background-color: #f5efed;
+    color: #F15B22;
+    height: 40px;
+    width: 120px;
+    font-style: normal;
+    border: 0;
+    border-radius: 5px;
+}
     
     
     
