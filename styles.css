@@ -1,0 +1,139 @@
+/* banner styles */
+.banner{
+width: 1600px;
+height: 800px;
+}
+.banner-sub-title{
+position: absolute;
+width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+color: #151414;
+
+}
+.banner-description{
+position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 30px;
+margin-top:50px;
+/* or 162% */
+text-align: right;
+color: #444343;
+}
+.btn-primary{
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    left: 1250px;
+    top: 578px;
+    background: orangered;
+    padding: auto;
+    border-radius: 5px;
+    color: aliceblue;
+    border: 0;
+    margin-top: 50px;
+    text-align: center;
+}
+/* person style */
+.person{
+position: absolute;
+width: 569px;
+height: 723.3px;
+left: 180px;
+top: 939px;   
+} 
+.parson-text{
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    left: 640px;
+    top: 120px;
+}
+.person-title{
+position:absolute;
+font-size: 50px;
+font-weight: 700;
+margin-bottom:0px;
+top:0;
+height:400px ;
+width:416 ;
+}
+.person-sub-title{
+    font-size:18px;
+   line-height: 30px;
+   font-weight: 400;
+    height: 400px;
+    width: 416px;
+    margin-top: 200px;
+    font-style: normal;
+}
+.li-content{
+    position: absolute;
+    width: 400px;
+    height:300px;
+    top: 340px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    font-style: normal;
+}
+/* at aktu pblm my plans */
+.plans-title{
+    font-size: 50px;
+    text-align: center;
+    line-height: 40px;
+    font-weight: 800;
+    
+}
+.my-plans{
+position: absolute;
+width: 1141px;
+height: 299.96px;
+left: 200px;
+top: 1792.3px;
+
+}
+.skills-container{
+    display: flex;
+    gap: 200px;
+    text-align: center;
+}
+.skill{
+    background: #FFFFFF;
+    text-align: center;
+    line-height: 25px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    line-height: 25px;
+}
+.skill-description{
+    color: rgb(54, 53, 53);
+    font-size: 20px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+    
+    
+    
+   
